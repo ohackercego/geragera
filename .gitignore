@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Build do PyInstaller
+_build_venv/
+build/
+dist/
+*.spec
+
+# Imagens geradas e arquivos de teste
+saidas/
+
+# Chave da API (nunca subir)
+.nvidia_api_key
+.nvidia_api_key.enc
